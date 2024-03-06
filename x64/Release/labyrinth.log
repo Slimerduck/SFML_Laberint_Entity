@@ -1,0 +1,59 @@
+﻿  camera.cpp
+C:\Users\Plato\source\repos\labyrinth\labyrinth\camera.cpp(12,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Plato\source\repos\labyrinth\labyrinth\camera.cpp(13,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Plato\source\repos\labyrinth\labyrinth\camera.cpp(26,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Plato\source\repos\labyrinth\labyrinth\camera.cpp(26,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Engine.cpp
+  Entity.cpp
+  KeypPressedAction.cpp
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(12,35): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(14,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(20,36): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(22,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(28,36): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(30,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(36,35): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\Plato\source\repos\labyrinth\labyrinth\KeypPressedAction.cpp(38,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  labyrinth.cpp
+  map.cpp
+C:\Users\Plato\source\repos\labyrinth\labyrinth\map.cpp(22,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Plato\source\repos\labyrinth\labyrinth\map.cpp(22,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Money.cpp
+  MoveEntity.cpp
+  Player.cpp
+C:\Users\Plato\source\repos\labyrinth\labyrinth\Player.cpp(19,29): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Plato\source\repos\labyrinth\labyrinth\Player.cpp(31,30): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+map.obj : error LNK2001: неразрешенный внешний символ "public: void __cdecl Player::update(void)" (?update@Player@@QEAAXXZ).
+C:\Users\Plato\source\repos\labyrinth\x64\Release\labyrinth.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
